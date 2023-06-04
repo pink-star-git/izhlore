@@ -4,6 +4,8 @@
 
 <h1>Заметки</h1>
 
+- <p>Кто этот ваш ГГ в <a href="Script/1.Volume 1.md"> VOLUME1</a> ? <p>
+
 <h2>Вики</h2>
 <p>
 
